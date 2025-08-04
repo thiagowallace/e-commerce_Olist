@@ -59,5 +59,3 @@ Este painel apresenta:
 📌 Autor: Thiago Wallace Paz
 📅 Última atualização: Agosto/2025
 📧 Contato: thiagowallacepaz@gmail.com
-
-
